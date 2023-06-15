@@ -9,8 +9,6 @@ up: [[Vida Lendária]]
 
 Um segundo cérebro potencializado com IA.
 
-
-
 # Curso
 
 ## Como funciona?
